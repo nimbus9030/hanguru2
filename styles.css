@@ -22,6 +22,13 @@ html, body {
 .mdl-demo .mdl-layout__header-row {
   padding-left: 40px;
 }
+
+.mdl-demo .mdl-layout__header__text {
+  padding-left: 50px;
+  margin: 0 -8px -8px -8px;
+  /*padding-top: -10px;*/
+}
+
 .mdl-demo .mdl-layout.is-small-screen .mdl-layout__header-row h3 {
   font-size: inherit;
 }

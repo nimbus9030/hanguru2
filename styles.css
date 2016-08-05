@@ -25,7 +25,8 @@ html, body {
 
 .mdl-demo .mdl-layout__header__text {
   padding-left: 50px;
-  margin: 0 -8px -8px -8px;
+  margin: 0px 0px 0px -20px;
+  /*font-size: 188%;*/
   /*padding-top: -10px;*/
 }
 
@@ -141,6 +142,7 @@ html, body {
 .mdl-demo section > header > .material-icons {
   font-size: 3rem;
 }
+
 .mdl-demo section > button {
   position: absolute;
   z-index: 99;
@@ -245,10 +247,18 @@ html, body {
   z-index: 99;
 }
 
+.mdl-button.mdl-button--pronauns{
+  font-size: 25px; 
+  width: 150px; 
+  height: 50px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
 .mdl-button--fab.mdl-button--colored {
   background: rgb(103,58,183);
-  /*color: rgb(255,255,255);*/
   margin-left: 0px;
+  /*font-size: 30px;*/
 }
 
 

@@ -270,10 +270,8 @@ background-color: rgb(255,64,129); }
 background-color: rgb(255,64,129); }
 */
 .mdl-button--fab.mdl-button--colored .mdl-ripple {
-background: rgb(255,255,255); }
-
-
-
+background: rgb(255,255,255); 
+}
 
 .mdl-card__supporting-text .mdl-card--img{
   width: 200px;
